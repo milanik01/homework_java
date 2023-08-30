@@ -29,6 +29,8 @@ public class Main {
 
     }
 
+
+
     private static void dinner(ArrayList<Cat> cats, Dish dish) {
 
         for (Cat cat:cats) {
